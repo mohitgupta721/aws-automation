@@ -1,0 +1,16 @@
+[
+	{
+		"Region": "us-west-1",
+		"Ami": "ami-011b6930a81cd6aaf",
+		"Instance_Type": "t2.micro",
+		"Security_Group": "web_access"
+		
+	},
+	
+	{
+		"Region": "us-west-2",
+		"Ami": "ami-01bbe152bf19d0289",
+		"Instance_Type": "t2.micro",
+		"Security_Group": "web_access"
+	}
+]
