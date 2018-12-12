@@ -2,8 +2,8 @@ import json
 import boto3
 
 # Authentication to AWS access key and id,
-access_key_id="AKIAJLOE6GCPBQJW7BOA"
-secret_access_key="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"
+access_key_id="AKIAJT3QKUL6EMXBSXGA"
+secret_access_key="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"
 
 regions=['ap-south-1','eu-west-3','eu-west-2','eu-west-1','ap-northeast-2','ap-northeast-1','sa-east-1','ca-central-1','ap-southeast-1','ap-southeast-2','eu-central-1','us-east-1','us-east-2','us-west-1','us-west-2']
 instances_list=[]
